@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "763775501112",
+    "project_id": "gtg-application",
+    "storage_bucket": "gtg-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763775501112:android:1afbce26134c2c696ef7cd",
+        "android_client_info": {
+          "package_name": "com.example.gtgapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763775501112-kkvs30ttfiujfuluebns3q2obghigoll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gtgapplication",
+            "certificate_hash": "780c386196ac305cb4a57c2b4ed38c8a6f536f16"
+          }
+        },
+        {
+          "client_id": "763775501112-q62b4l709ge16hdpl4j8o5atjlrreqe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7_6QQ6z2VbKajPiR38K6rsSNF_5hM8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763775501112-q62b4l709ge16hdpl4j8o5atjlrreqe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
